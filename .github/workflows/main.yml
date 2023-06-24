@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: rbluer/metrics@latest
+      - uses: rbluer/metrics@v3.33
         with:
           # Your GitHub token
           # The following scopes are required:
