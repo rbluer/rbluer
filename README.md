@@ -25,6 +25,9 @@ https://github.com/anuraghazra/github-readme-stats
 https://github.com/lowlighter/metrics
 https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
 https://metrics.lecoq.io/embed?user=rbluer
+
+The following shows what the cron settings mean so you can edit them.  "0 3 */2 * *" is run every other day at 3 am.
+https://crontab.guru/#0_3_*/2_*_*
 -->
 
 <picture>
